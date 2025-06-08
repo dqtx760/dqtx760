@@ -1,6 +1,6 @@
 <div id="img"align=center>
   
-# 🌟 I am Derek Zhao！  
+# 🌟 大强同学（Derek Zhao）！  
 
 ![小猫编程动图](https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg)
 
