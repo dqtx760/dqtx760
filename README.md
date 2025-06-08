@@ -2,6 +2,8 @@
   
 # 🌟 I am Derek Zhao！  
 
+![小猫编程动图](https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg)
+
 📫 邮箱：`sphinx30@126.com`  
 
 <div style="display: flex; gap: 10px;">
@@ -13,10 +15,8 @@
 
 
 
-
-![小猫编程动图](https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg)
-
 ---
+
 
 
 
