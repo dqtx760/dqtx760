@@ -1,20 +1,13 @@
 ### Hi there 👋,I'm Derek Zhao.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: sphinx30@126.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/2402_82616859?type=blog)
-
+- 📫  ：sphinx30@126.com
+- ✅ [![CSDN](https://camo.githubusercontent.com/4ab38db8253319564294c57a7df73feb94495420ca02e6a22e716ee93ae09ff2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545372539462541352545342542392538452d6d712545372539392542442d79656c6c6f)](https://blog.csdn.net/2402_82616859?type=blog) 
+[![推特](https://camo.githubusercontent.com/4ab38db8253319564294c57a7df73feb94495420ca02e6a22e716ee93ae09ff2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545372539462541352545342542392538452d6d712545372539392542442d79656c6c6f)](https://x.com/dqtx760)
+[![youtube](https://camo.githubusercontent.com/f9695dc70493170e64082b9f758771682da0665b766b07b6a951a65eaa1e1ed6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766964656f2d596f75547562652d726564)](https://www.youtube.com/@dqtx760/videos)
 
 ![](https://github-readme-stats.vercel.app/api?username=dqtx760&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
 ![image](https://github.com/user-attachments/assets/1a3a441c-02ea-47df-b494-185f201f2807)
-### My Skill Set
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 
