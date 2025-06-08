@@ -19,9 +19,7 @@
 ---
 
 
-### 📲 我的数据看板
 
-![img](https://github-readme-stats.vercel.app/api?username=dqtx760&show_icons=true&theme=candy)
 
  ![img](https://github-readme-streak-stats.herokuapp.com/?user=dqtx760&theme=radical)
 
