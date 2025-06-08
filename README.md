@@ -1,8 +1,6 @@
 <div id="img"align=center>
   
-# 🌟 我是Derek Zhao！  
-
-**中文名大强同学 | 喜欢AI和编程**  
+# 🌟 I am Derek Zhao！  
 
 📫 邮箱：`sphinx30@126.com`  
 
