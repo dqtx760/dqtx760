@@ -1,0 +1,114 @@
+﻿<svg width="340" height="580" viewBox="0 0 340 580" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="大强同学 AI效率顾问 工牌">
+  <defs>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1040"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#fde68a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="avatarRing" cx="50%" cy="50%" r="50%">
+      <stop offset="78%" stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="86%" stop-color="#f97316" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="avatarClip">
+      <circle cx="0" cy="0" r="46"/>
+    </clipPath>
+  </defs>
+
+  <g transform="translate(170,18)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        values="0;8;-6;4;-3;2;-1;0.5;0"
+        keyTimes="0;0.12;0.28;0.44;0.58;0.7;0.8;0.9;1"
+        dur="5.5s" begin="0.2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="rotate"
+        additive="sum"
+        values="0;3;-3;0"
+        keyTimes="0;0.5;0.9;1"
+        dur="6s" begin="5.7s" repeatCount="indefinite"/>
+
+      <circle cx="0" cy="0" r="7" fill="#1e293b" stroke="url(#cardBorder)" stroke-width="1.5"/>
+      <circle cx="0" cy="0" r="2.6" fill="#0f172a"/>
+
+      <path d="M -9 5 C -9 60, -14 90, -6 140 L 6 140 C 14 90, 9 60, 9 5 Z" fill="url(#strapGrad)" stroke="#0f172a" stroke-width="0.5"/>
+      <text x="0" y="45" font-family="Consolas, monospace" font-size="9" fill="#fef3c7" text-anchor="middle" transform="rotate(90)">大强同学 · AI效率</text>
+      <text x="0" y="90" font-family="Consolas, monospace" font-size="9" fill="#fef3c7" text-anchor="middle" transform="rotate(90)">大强同学 · AI效率</text>
+
+      <g transform="translate(0,142)">
+        <rect x="-13" y="0" width="26" height="16" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+        <circle cx="0" cy="18" r="7" fill="none" stroke="#94a3b8" stroke-width="3"/>
+      </g>
+
+      <g transform="translate(0,158)">
+        <rect x="-115" y="0" width="230" height="350" rx="20" fill="url(#cardGrad)" stroke="url(#cardBorder)" stroke-width="2"/>
+        <rect x="-115" y="0" width="230" height="350" rx="20" fill="none" stroke="#f97316" stroke-opacity="0.12" stroke-width="8"/>
+
+        <rect x="-115" y="0" width="230" height="34" rx="20" fill="#f97316" opacity="0.15"/>
+        <text x="0" y="22" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#fde68a">AI · 效率 · 实践</text>
+
+        <circle cx="0" cy="98" r="52" fill="url(#avatarRing)">
+          <animateTransform attributeName="transform" type="rotate" from="0 0 98" to="360 0 98" dur="6s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="98" r="47" fill="#1e1040" stroke="#1e293b" stroke-width="2"/>
+        <text x="0" y="116" text-anchor="middle" font-size="52">🤖</text>
+
+        <text x="0" y="178" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#f1f5f9">大强同学</text>
+        <text x="0" y="200" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#a855f7">AI效率顾问 · 自动化工程师</text>
+        <text x="0" y="218" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#fb923c">@dqtx760</text>
+
+        <line x1="-90" y1="232" x2="90" y2="232" stroke="#1e293b" stroke-width="1.5"/>
+
+        <text x="-95" y="252" font-family="Consolas, monospace" font-size="9.5" fill="#64748b">技能</text>
+        <rect x="-95" y="258" width="58" height="18" rx="9" fill="#1e1040" stroke="#f97316" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="-66" y="271" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#fb923c">AI Agent</text>
+        <rect x="-30" y="258" width="54" height="18" rx="9" fill="#1e1040" stroke="#a855f7" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="-3" y="271" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#d8b4fe">自动化</text>
+        <rect x="31" y="258" width="54" height="18" rx="9" fill="#1e1040" stroke="#f97316" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="58" y="271" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#fb923c">Obsidian</text>
+
+        <rect x="-95" y="282" width="54" height="18" rx="9" fill="#1e1040" stroke="#a855f7" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="-68" y="295" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#d8b4fe">Codex</text>
+        <rect x="-35" y="282" width="58" height="18" rx="9" fill="#1e1040" stroke="#f97316" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="-6" y="295" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#fb923c">个人网站</text>
+        <rect x="31" y="282" width="54" height="18" rx="9" fill="#1e1040" stroke="#a855f7" stroke-opacity="0.5" stroke-width="1"/>
+        <text x="58" y="295" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#d8b4fe">内容创作</text>
+
+        <g transform="translate(-90,310)" fill="#475569">
+          <rect x="0" y="0" width="2" height="22"/><rect x="4" y="0" width="1" height="22"/><rect x="7" y="0" width="3" height="22"/>
+          <rect x="12" y="0" width="1" height="22"/><rect x="15" y="0" width="2" height="22"/><rect x="19" y="0" width="4" height="22"/>
+          <rect x="25" y="0" width="1" height="22"/><rect x="28" y="0" width="2" height="22"/><rect x="32" y="0" width="1" height="22"/>
+          <rect x="35" y="0" width="3" height="22"/><rect x="40" y="0" width="1" height="22"/><rect x="43" y="0" width="2" height="22"/>
+          <rect x="47" y="0" width="4" height="22"/><rect x="53" y="0" width="1" height="22"/><rect x="56" y="0" width="2" height="22"/>
+          <rect x="60" y="0" width="1" height="22"/><rect x="63" y="0" width="3" height="22"/><rect x="68" y="0" width="1" height="22"/>
+          <rect x="71" y="0" width="2" height="22"/><rect x="75" y="0" width="4" height="22"/><rect x="81" y="0" width="1" height="22"/>
+          <rect x="84" y="0" width="2" height="22"/><rect x="88" y="0" width="3" height="22"/><rect x="93" y="0" width="1" height="22"/>
+          <rect x="96" y="0" width="2" height="22"/><rect x="100" y="0" width="1" height="22"/><rect x="103" y="0" width="3" height="22"/>
+          <rect x="108" y="0" width="2" height="22"/><rect x="112" y="0" width="1" height="22"/><rect x="115" y="0" width="4" height="22"/>
+          <rect x="121" y="0" width="1" height="22"/><rect x="124" y="0" width="2" height="22"/><rect x="128" y="0" width="1" height="22"/>
+          <rect x="131" y="0" width="3" height="22"/><rect x="136" y="0" width="1" height="22"/><rect x="139" y="0" width="2" height="22"/>
+          <rect x="143" y="0" width="4" height="22"/><rect x="149" y="0" width="1" height="22"/><rect x="152" y="0" width="2" height="22"/>
+          <rect x="156" y="0" width="3" height="22"/><rect x="161" y="0" width="1" height="22"/><rect x="164" y="0" width="2" height="22"/>
+          <rect x="168" y="0" width="1" height="22"/><rect x="171" y="0" width="3" height="22"/><rect x="176" y="0" width="4" height="22"/>
+        </g>
+        <text x="0" y="342" text-anchor="middle" font-family="Consolas, monospace" font-size="9" fill="#334155" letter-spacing="1">DQTX760 · 专注AI生产力</text>
+
+        <rect x="-115" y="0" width="90" height="350" fill="url(#shineGrad)" transform="skewX(-18)">
+          <animateTransform attributeName="transform" type="translate" values="-40,0; 300,0" dur="4s" repeatCount="indefinite" additive="sum"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+</svg>
