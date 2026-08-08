@@ -29,7 +29,8 @@
 - 🌐 实践 **个人网站搭建**——Fuwari 博客、Vinext 等现代工具
 - 💬 提供**远程技术协助**——解决你卡在工具安装、API 设置上的问题
 - 📫 个人主页访问：**[fix.dqtx.cc](https://fix.dqtx.cc)**
-
+<p>💬 公众号微信搜「大强同学」或扫码关注 ↓</p>
+<img src="https://gitee.com/da-qiang-classmate/typora/raw/master/image/未命名的设计（2）.webp" alt="大强同学公众号二维码" width="220"/>
 </td>
 </tr>
 </table>
@@ -125,8 +126,6 @@
 <a href="https://link3.cc/dqtx" target="_blank"><img src="https://img.shields.io/badge/🔗_Link3_合集-0f172a?style=for-the-badge&logo=linktree&logoColor=a855f7" alt="Link3"/></a>
 <a href="https://github.com/dqtx760" target="_blank"><img src="https://img.shields.io/badge/💻_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub"/></a>
 
-<p>💬 公众号微信搜「大强同学」或扫码关注 ↓</p>
-<img src="https://gitee.com/da-qiang-classmate/typora/raw/master/image/未命名的设计（2）.webp" alt="大强同学公众号二维码" width="220"/>
 
 <br/><br/>
 
