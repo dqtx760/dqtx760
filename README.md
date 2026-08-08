@@ -28,7 +28,7 @@
 - 📚 钻研 **Obsidian 知识管理与写作工作流**——把知识变成输出
 - 🌐 实践 **个人网站搭建**——Fuwari 博客、Vinext 等现代工具
 - 💬 提供**远程技术协助**——解决你卡在工具安装、API 设置上的问题
-- 📫 技术支持微信：**[fix.dqtx.cc](https://fix.dqtx.cc)**
+- 📫 个人主页访问：**[fix.dqtx.cc](https://fix.dqtx.cc)**
 
 </td>
 </tr>
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<a href="https://fix.dqtx.cc"><img src="https://img.shields.io/badge/🛠️_技术支持微信-0f172a?style=for-the-badge&logoColor=f97316" alt="微信技术支持"/></a>
+<a href="https://fix.dqtx.cc"><img src="https://img.shields.io/badge/🛠️_个人主页访问-0f172a?style=for-the-badge&logoColor=f97316" alt="个人主页访问"/></a>
 <a href="https://blog.csdn.net/2402_82616859?type=blog" target="_blank"><img src="https://img.shields.io/badge/📖_大强同学_CSDN-0f172a?style=for-the-badge&logo=c&logoColor=f97316" alt="CSDN"/></a>
 <a href="https://xodnytdcaw.feishu.cn/wiki/BtjSwIjMuiISo7kNFiQcMMXcnKc?fromScene=spaceOverview" target="_blank"><img src="https://img.shields.io/badge/📚_教程合集_飞书-0f172a?style=for-the-badge&logo=feishu&logoColor=fde68a" alt="飞书文档"/></a>
 <a href="https://www.youtube.com/@dqtx760/videos" target="_blank"><img src="https://img.shields.io/badge/🎬_YouTube_@dqtx760-0f172a?style=for-the-badge&logo=youtube&logoColor=a855f7" alt="YouTube"/></a>
@@ -124,6 +124,9 @@
 <a href="https://bento.me/dqtx" target="_blank"><img src="https://img.shields.io/badge/🍱_Bento_主页-0f172a?style=for-the-badge&logo=bento&logoColor=f97316" alt="Bento"/></a>
 <a href="https://link3.cc/dqtx" target="_blank"><img src="https://img.shields.io/badge/🔗_Link3_合集-0f172a?style=for-the-badge&logo=linktree&logoColor=a855f7" alt="Link3"/></a>
 <a href="https://github.com/dqtx760" target="_blank"><img src="https://img.shields.io/badge/💻_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub"/></a>
+
+<p>💬 公众号微信搜「大强同学」或扫码关注 ↓</p>
+<img src="https://gitee.com/da-qiang-classmate/typora/raw/master/image/未命名的设计（2）.webp" alt="大强同学公众号二维码" width="220"/>
 
 <br/><br/>
 
