@@ -102,11 +102,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dqtx760&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=f97316&icon_color=a855f7&text_color=e2e8f0" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqtx760&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=f97316&text_color=e2e8f0" alt="Top Languages" width="48%"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=dqtx760&theme=radical&hide_border=true&background=0f172a&ring=f97316&fire=a855f7&currStreakLabel=fde68a&sideLabels=93c5fd&dates=64748b" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -132,10 +127,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dqtx760&color=0f172a&style=for-the-badge&label=访问量" alt="访问计数"/>
-
-<br/><br/>
-
 *⚡ 让每个人都能用好 AI，而不只是聊聊 AI。*
 
 </div>
+
