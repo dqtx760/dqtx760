@@ -28,7 +28,7 @@
 - 📚 钻研 **Obsidian 知识管理与写作工作流**——把知识变成输出
 - 🌐 实践 **个人网站搭建**——Fuwari 博客、Vinext 等现代工具
 - 💬 提供**远程技术协助**——解决你卡在工具安装、API 设置上的问题
-- 📫 个人主页访问：**[fix.dqtx.cc](https://fix.dqtx.cc)**
+- 📫 个人主页访问：**[fix.dqtx.cc](https://fix.dqtx.cc)** **[os.dqtx.cc](https://os.dqtx.cc)** **[dqtx.cc](https://dqtx.cc)**
 <p>💬 公众号微信搜「大强同学」或扫码关注 ↓</p>
 <img src="https://gitee.com/da-qiang-classmate/typora/raw/master/image/未命名的设计（2）.webp" alt="大强同学公众号二维码" width="220" hspace="24"/>
 </td>
